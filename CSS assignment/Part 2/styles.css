@@ -1,0 +1,21 @@
+/* External CSS */
+body {
+    background-color: #e0f7fa; /* Light blue background for the webpage */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  a {
+    color: #007bff; /* Blue links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #0056b3; /* Darker blue on hover */
+    text-decoration: underline;
+  }
+  
+  h1 {
+    color: #00796b; /* Green heading */
+    font-size: 32px;
+  }
+  
